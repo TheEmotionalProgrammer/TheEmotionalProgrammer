@@ -3,6 +3,11 @@
 
 I am a 22-years-old Master student at Delft University of Technology, formerly a Bachelor student at Sapienza University of Rome. My interests and research focus on Deep Learning, Reinforcement Learning, NLP, CV, and much more!
 
+### 📫 Connect with me:
+[<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="linkedin_logo.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/r-gheda
+
 <!--
 **TheEmotionalProgrammer/TheEmotionalProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
