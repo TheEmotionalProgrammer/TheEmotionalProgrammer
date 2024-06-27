@@ -1,7 +1,7 @@
 # Isidoro Tamassia
 ## CS MSc @ TU Delft
 
-I am a 22-years-old Master student at Delft University of Technology, formerly a Bachelor student at Sapienza University of Rome. My interests and research focus on Deep Learning, Reinforcement Learning, NLP, CV, and much more!
+I am a 22-years-old Computer Science Master student at Delft University of Technology, formerly a Computer and Control Engineering Bachelor student at Sapienza University of Rome. My interests and research focus on Deep Learning, Reinforcement Learning, NLP, CV, and much more!
 
 ### 📫 Connect with me:
 [<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="linkedin_logo.svg" />][linkedin]
