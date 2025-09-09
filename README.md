@@ -4,9 +4,11 @@
 I am a 23-years-old Computer Science MSc student at Delft University of Technology, formerly a Computer and Control Engineering BSc student at Sapienza University of Rome. My interests and research focus on Deep Learning, Reinforcement Learning, NLP, CV, and much more!
 
 ### 📫 Connect with me:
-[<img align="left" alt="CogSP | LinkedIn" width="70px" style="color:red" src="linkedin_logo.svg" />][linkedin]
+[<img align="left" alt="Isidoro Tamassia | LinkedIn" width="70px" src="linkedin_logo.svg" />][linkedin]
+[<img align="left" alt="Isidoro Tamassia | Google Scholar" width="70px" src="scholar_logo.svg" />][scholar]
 
 [linkedin]: https://www.linkedin.com/in/isidoro-tamassia-803910250/
+[scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4zST2p3mldkvZ3GCtyOVViB74lWonYwLudvaaD2yv70_idzQmJF_8lGEXylMXllHtBf4vAbrvoDfp4yiYGxDJp0&user=A4Clv8UAAAAJ
 
 <!--
 **TheEmotionalProgrammer/TheEmotionalProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
