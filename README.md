@@ -5,7 +5,7 @@ I am a 23-years-old Computer Science MSc student at Delft University of Technolo
 
 ### 📫 Connect with me:
 [<img align="left" alt="Isidoro Tamassia | LinkedIn" width="70px" src="linkedin_logo.svg" />][linkedin]
-[<img align="left" alt="Isidoro Tamassia | Google Scholar" width="70px" src="scholar_logo.svg" />][scholar]
+[<img align="left" alt="Isidoro Tamassia | Google Scholar" width="70px" src="scholar_logo.png" />][scholar]
 
 [linkedin]: https://www.linkedin.com/in/isidoro-tamassia-803910250/
 [scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4zST2p3mldkvZ3GCtyOVViB74lWonYwLudvaaD2yv70_idzQmJF_8lGEXylMXllHtBf4vAbrvoDfp4yiYGxDJp0&user=A4Clv8UAAAAJ
