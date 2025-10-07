@@ -1,7 +1,7 @@
 # Isidoro Tamassia
-## CS MSc @ TU Delft
+## PhD Researcher @ KU Leuven
 
-I am a 23-years-old Computer Science MSc student at Delft University of Technology, formerly a Computer and Control Engineering BSc student at Sapienza University of Rome. My interests and research focus on Deep Learning, Reinforcement Learning, NLP, CV, and much more!
+I am a PhD researcher (Oct. 2025-present) at the DTAI group of KU Leuven University, supervised by Prof. Giuseppe Marra. My research interests lie at the intersection of NeuroSymbolic AI and Reinforcement Learning. I hold an MSc degree in Computer Science from TU Delft University, where I graduated under the supervision of Prof. Wendelin Böhmer. During my master's program, I had the opportunity to conduct research in both the theory and applications of Deep Reinforcement Learning. Previously, I obtained a BSc degree in Computer and Control Engineering from Università di Roma 'La Sapienza'. 
 
 ### More about me:
 [<img align="left" alt="Isidoro Tamassia | Google Scholar" width="58px" src="icons8-google-scholar.svg" />][scholar]
